@@ -12,5 +12,3 @@ wheels/
 # Logger
 game_state.jsonl
 game_events.jsonl
-
-.gitignore
